@@ -1,0 +1,1 @@
+This repository is archived and no longer maintained. See [square/workflow](https://github.com/square/workflow) and [square/workflow-kotlin](https://github.com/square/workflow-kotlin) for documentation and samples of building apps with Workflow.
